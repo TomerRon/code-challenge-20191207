@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint-functional-preset"],
+  "rules": {
+    "no-mixed-interface": false,
+    "no-submodule-imports": false,
+    "quotemark": [true, "single", "jsx-double"]
+  }
+}
